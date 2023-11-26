@@ -1,6 +1,6 @@
 # Parejas
 
-link al repositorio: 
+link al repositorio: https://github.com/Jacobo24/Algoritmos_voraces.git
 
 Hay n parejas sentadas en 2n asientos dispuestos en fila y quieren darse la mano.
 Las personas y los asientos están representados por un array de números enteros row
